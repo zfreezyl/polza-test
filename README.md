@@ -26,7 +26,7 @@
 
 ```bash
 # Сгенерировать промпты для Claude
-python personalize.py
+py personalize.py
 
 # Объединить ответ Claude с CSV
-python step2and4.py
+py step2and4.py
