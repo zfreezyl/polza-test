@@ -2,7 +2,7 @@ import csv
 import re
 
 CSV_FILE = "tsk4.csv"
-CLAUDE_OUTPUT = "claude_output2.txt"
+CLAUDE_OUTPUT = "claude_output_tsk4.txt"
 OUTPUT_CSV = "tsk4_personalized.csv"
 
 
