@@ -14,7 +14,7 @@
 | `prompts_for_claude.txt` | Пример промптов (Task 2) |
 | `claude_output_tsk2.txt` | Ответ Claude (Task 2) |
 | `claude_output_tsk4.txt` | Ответ Claude (Task 4) |
-| `task5_llm_stack.md` | Мой LLM-стек |
+| `TASK_5.md` | Мой LLM-стек |
 
 ## Инструменты
 
