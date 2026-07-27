@@ -1,6 +1,6 @@
 import csv
 
-CSV_FILE = "collection.csv"
+CSV_FILE = "collection_tsk4.csv"
 OUTPUT_FILE = "prompts_for_claude.txt"
 
 
